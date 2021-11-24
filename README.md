@@ -3,8 +3,8 @@ Search functionality
 
 -----------------------------
 Go to selenium
-Create a new class
-Copy paste this code: 
+- Create a new class
+- Copy paste this code: 
 ------------------------------------------------------
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
